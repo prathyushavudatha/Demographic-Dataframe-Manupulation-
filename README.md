@@ -1,2 +1,2 @@
-# Dempgraphic-Dataframe-Manupulation-
-Dempgraphic Dataframe Manupulation in python using seaborn, matplotlib, numpy and pandas libraries.
+# Demopgraphic-Dataframe-Manupulation-
+Demopgraphic Dataframe Manupulation in python using seaborn, matplotlib, numpy and pandas libraries.
